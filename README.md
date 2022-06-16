@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mraflyhudaa
 - 👀 I’m interested in React & React Native
-- 🌱 I’m currently learning Firebase
 - 📫 How to reach me : email me at mraflyhudaa@gmail.com
 
 <!---
